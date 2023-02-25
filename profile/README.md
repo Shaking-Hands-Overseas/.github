@@ -12,7 +12,7 @@ In this project, we recreated a human hand which can be moved using a sensor glo
 - Arduino power supply / 12V to 5V converter + 12V battery
 
 - 3D printed hand
-- 
+
 [Recommended Link](http://inmoov.fr/hand-and-forarm/)
 
 - Arduino Uno or ESP32
