@@ -31,6 +31,7 @@ In this project, we recreated a human hand which can be moved using a sensor glo
 [Recommended Link](https://www.amazon.es/dp/B00MDIT82I?ref_=cm_sw_r_cp_ud_dp_DTJN65M47Q2APS43BNGR)
 
 - JST connectors 
+
 [Recommended Link](https://www.amazon.es/dp/B08NDKZCY9?ref_=cm_sw_r_cp_ud_dp_CD746S82Z6XFHH3VTV8C)
 
 - Fishing string
